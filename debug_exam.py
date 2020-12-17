@@ -56,10 +56,6 @@ def uniqueUpdate(data1, data2):
     # After processing all (k, v2) in
     # data2, return the dictionary
     return dupKeys
-
-'''
-Visualize this function on an example:
-https://tinyurl.com/...
 '''
 
 ## DO NOT MODIFY BELOW THIS LINE! ##
